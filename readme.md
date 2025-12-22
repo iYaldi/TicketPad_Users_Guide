@@ -132,7 +132,7 @@ To access the Options dialog for TicketPad:
 
 This will open a popup panel with the following options:
 
-### Note Managemen
+### Note Management
 * **Max Notes**: Set the maximum number of notes that can be created.
 * **Max Note Size**: Set the maximum size each note can be.
 * **Backup Notes**: Create a backup of all your notes, allowing you to restore them later.
