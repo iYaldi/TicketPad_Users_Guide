@@ -6,9 +6,16 @@
 
 ## User's Guide
 
-<div align="center">
 
-## Table of Contents
+
+<table align="center" style="border:0px solid #eee;width:100%">
+  <tr style="border:0px solid #eee; width:100%">
+   <td style="border:0px solid #eee; width:100%">
+
+   </td>
+    <td style="border:0px solid #eee; width:100%">
+
+### Table of Contents
 
 - [Getting Started](#getting-started)
   - [Setup](#setup)
@@ -16,7 +23,18 @@
 - [Advanced Features](#advanced-features)
 - [FAQ](#faq)
 
-</div>
+
+    </td>
+   
+
+   <td style="border:0px solid #eee; width:100%">
+
+   </td>
+
+   
+  </tr>
+</table>
+
 
 ### Table of Contents
 
