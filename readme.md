@@ -5,7 +5,7 @@
 
 <table align="center" style="border:0px solid #eee;width:100%">
   <tr style="border:0px solid #eee; width:100%">
-   <td style="border:0px solid #eee;width:20%; background: rgba(172, 172, 172, 1)">
+   <td style="border:0px solid #eee;width:20%;">
 &nbsp;
    </td>
     <td style="border:0px solid #eee; width:60%">
@@ -49,19 +49,35 @@ In the Chrome browser (on Windows, macOS, and Linux), you can open the Context M
 
 **Note**: The Search and Notes menu items will be activated only when the SidePanel is open
 
-### Context Search
-Selecting the Search from the Context menu when:
-- From a normal internet page, the Search tab in the SidePanel will be opened.
-- From a html page where a ticket is displayed:
-    https://issues.apache.org/jira/browse/HELIX-871
-The Sidepanel Search Tap will be displayed and automatically the following will happen:
-    - `Project:` This field will be populated with the Project ID, in this case HELIX, it HELIX will also be saved in the pulldown menu if it is not already present.
-    - Both `Reporter:` and `Assignee:` pulldown menus will be updated with names present in the ticket.
-    - The `Look Up`, url will also be selected to match the ticket's side url.
 
 
+### Behavior When Selecting "Search" from the Context Menu
 
-### Context Notes
+- **From a normal web page**:
+
+    The Search tab in the Side Panel will open.
+
+- **From an HTML page displaying a Jira ticket** (e.g., https://[URL]/jira/browse/HELIX-871):
+
+    The Search tab in the Side Panel will open, and the following fields will be automatically populated/updated based on the ticket details:
+
+    - `Project`: This field will be filled with the ticket's Project ID (in this example, HELIX). The value will also be saved in the dropdown menu if it is not already present.
+
+    - `Look Up` **URL**: This will be automatically selected to match the ticket's site URL
+
+    - `Reporter`, `Assignee`, and other relevant fields:
+    The corresponding dropdown menus (including Reporter, Assignee, and any other applicable fields) will be automatically updated with the details from the current ticket. New values will be added to the dropdown menus if they are not already present.
+
+        ![alt text](images/status_dropdown.png)
+
+        From the example we see the `Project:` field has been updated with the project name _HELIX_ and the `Status:` dropdown will be be updated with the status type, in this case, _Open_.
+
+
+> [!NOTE]
+> The dropdown menus will gradually populate with recent or frequently used items as you continue searching.
+
+
+### Behavior When Selecting "Notes" from the Context Menu
 edsdsdsdsd
 Context Notes
 
