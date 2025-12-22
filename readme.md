@@ -1,7 +1,6 @@
+![Company Icon](images/iY_full.svg)
 
 # TicketPad - User's Guide
-
-![Company Icon](images/iY_full.svg)
 
 <table align="center" style="border:0px solid #eee;width:100%">
   <tr style="border:0px solid #eee; width:100%">
@@ -61,11 +60,11 @@ In the Chrome browser (on Windows, macOS, and Linux), you can open the Context M
 
     The Search tab in the Side Panel will open, and the following fields will be automatically populated/updated based on the ticket details:
 
-    - `Project`: This field will be filled with the ticket's Project ID (in this example, HELIX). The value will also be saved in the dropdown menu if it is not already present.
+    - `Project:`: This field will be filled with the ticket's Project ID (in this example, HELIX). The value will also be saved in the dropdown menu if it is not already present.
 
     - `Look Up` **URL**: This will be automatically selected to match the ticket's site URL
 
-    - `Reporter`, `Assignee`, and other relevant fields:
+    - `Reporter:`, `Assignee:`, and other relevant fields:
     The corresponding dropdown menus (including Reporter, Assignee, and any other applicable fields) will be automatically updated with the details from the current ticket. New values will be added to the dropdown menus if they are not already present.
 
         ![alt text](images/status_dropdown.png)
