@@ -1,16 +1,11 @@
 
-# TicketPad
+# TicketPad - User's Guide
 
 ![Company Icon](images/iY_full.svg)
 
-
-## User's Guide
-
-
-
 <table align="center" style="border:0px solid #eee;width:100%">
   <tr style="border:0px solid #eee; width:100%">
-   <td style="border:0px solid #eee;width:20%">
+   <td style="border:0px solid #eee;width:20%; background: rgba(172, 172, 172, 1)">
 &nbsp;
    </td>
     <td style="border:0px solid #eee; width:60%">
