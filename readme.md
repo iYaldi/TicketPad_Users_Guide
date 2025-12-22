@@ -145,6 +145,9 @@ This will open a popup panel with the following options:
 
 By adjusting these options, you can customize the behavior of TicketPad to suit your needs.
 
+> [!CAUTION]
+> Restoring Notes will overwrite existing notes. Make sure you Backup Notes first.
+
 ## Troubleshooting
 (Insert troubleshooting tips and solutions here)
 
