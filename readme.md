@@ -6,6 +6,17 @@
 
 ## User's Guide
 
+<div align="center">
+
+## Table of Contents
+
+- [Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Configuration](#configuration)
+- [Advanced Features](#advanced-features)
+- [FAQ](#faq)
+
+</div>
 
 ### Table of Contents
 
