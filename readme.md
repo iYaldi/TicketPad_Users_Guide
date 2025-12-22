@@ -10,31 +10,10 @@
 
 <table align="center" style="border:0px solid #eee;width:100%">
   <tr style="border:0px solid #eee; width:100%">
-   <td style="border:0px solid #eee; width:100%">
-
+   <td style="border:0px solid #eee;width:20%">
+&nbsp;
    </td>
-    <td style="border:0px solid #eee; width:100%">
-
-### Table of Contents
-
-- [Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Configuration](#configuration)
-- [Advanced Features](#advanced-features)
-- [FAQ](#faq)
-
-
-    </td>
-   
-
-   <td style="border:0px solid #eee; width:100%">
-
-   </td>
-
-   
-  </tr>
-</table>
-
+    <td style="border:0px solid #eee; width:60%">
 
 ### Table of Contents
 
@@ -50,18 +29,24 @@
 6. [Troubleshooting](#troubleshooting)
 7. [FAQs](#faqs)
 
+    </td>
+   <td style="border:0px solid #eee; width:20%">
+&nbsp;
+   </td>
+  </tr>
+</table>
 
 
-### Introduction
+# Introduction
 The following guide provides an overview of the features and functionality of the TicketPad Chrome Extension. This extension uses a context menu and sidePanel to provide quick access to essential Jira features.
 
 This guide will help you understand how to use the Search and Notes tabs in the sidePanel, as well as how to navigate the context menu. By the end of this guide, you should be able to effectively utilize TicketPad to streamline your workflow and improve your productivity.
 
 
 
-### Getting Started with TicketPad
+# Getting Started with TicketPad
 
-### Context Menu
+## Context Menu
 In the Chrome browser (on Windows, macOS, and Linux), you can open the Context Menu by doing a right-click on the browser page.
 
 ![Context Menu](images/ContextMenu.png)
@@ -69,7 +54,7 @@ In the Chrome browser (on Windows, macOS, and Linux), you can open the Context M
 
 **Note**: The Search and Notes menu items will be activated only when the SidePanel is open
 
-#### Context Search
+### Context Search
 Selecting the Search from the Context menu when:
 - From a normal internet page, the Search tab in the SidePanel will be opened.
 - From a html page where a ticket is displayed:
@@ -81,23 +66,23 @@ The Sidepanel Search Tap will be displayed and automatically the following will 
 
 
 
-#### Context Notes
+### Context Notes
 edsdsdsdsd
 Context Notes
 
 
-### SidePanel
+## SidePanel
 
-#### Search Tab
+### Search Tab
 (Insert detailed information about the Search tab, including examples and screenshots if necessary)
 
-#### Notes Tab
+### Notes Tab
 (Insert detailed information about the Notes tab, including examples and screenshots if necessary)
 
-g
 
 
-### Options
+
+## Options
 To access the Options dialog for TicketPad:
 
 1. Go to the TicketPad icon in the Chrome Extensions panel, top right in Chrome Browser.
@@ -108,12 +93,12 @@ To access the Options dialog for TicketPad:
 
 This will open a popup panel with the following options:
 
-#### Note Managemen
+### Note Managemen
 * **Max Notes**: Set the maximum number of notes that can be created.
 * **Max Note Size**: Set the maximum size each note can be.
 * **Backup Notes**: Create a backup of all your notes, allowing you to restore them later.
 
-#### Export and Restore
+### Export and Restore
 
 * **Export Notes**: Download a CSV file containing all your notes.
 * **HTML Report**: Export all your notes as an HTML table.
@@ -121,10 +106,10 @@ This will open a popup panel with the following options:
 
 By adjusting these options, you can customize the behavior of TicketPad to suit your needs.
 
-#### Troubleshooting
+## Troubleshooting
 (Insert troubleshooting tips and solutions here)
 
-#### FAQs
+## FAQs
 (Insert frequently asked questions and their answers here)
 
 
