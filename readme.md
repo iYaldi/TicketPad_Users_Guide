@@ -92,10 +92,6 @@ This will open a popup panel with the following options:
 
 By adjusting these options, you can customize the behavior of TicketPad to suit your needs.
 
-&nbsp;
-<hr style="padding: 0px; margin-top: 0px; margin-bottom: 0px;background: rgb(118, 75, 162); border: none;height: 1px; box-shadow: 0px 0px 5px rgb(118, 75, 162, 0.7);"/>
-&nbsp;
-
 #### Troubleshooting
 (Insert troubleshooting tips and solutions here)
 
