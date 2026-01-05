@@ -247,7 +247,7 @@ This will open a popup panel with the following options:
 By adjusting these options, you can customize the behavior of TicketPad to suit your needs.
 
 > [!TIP]
-> Keep the number of Notes and size of your Notes as small as possible, this will resource usage and help with your Notes organization. Backup your Notes regularly and start a fresh, you can always restore then if needed.
+> Keep the number of Notes and size of your Notes as small as possible, this will reduce resource usage and help with your Notes organization. Backup your Notes regularly and start a fresh, you can always restore then if needed.
 
 ### Export and Restore
 
