@@ -21,9 +21,6 @@
     * [Dropdown](#dropdowns)
     * [Notes Tab](#notes-tab)
 5. [Options](#options)
-6. [Troubleshooting](#troubleshooting)
-7. [FAQs](#faqs)
-
     </td>
    <td style="border:0px solid #eee; width:20%">
 &nbsp;
