@@ -68,7 +68,7 @@ Should the extension ever add any data-collection feature in the future (which i
 If you have any questions about this privacy policy (or just want to say hi because you appreciate zero-data extensions), feel free to contact us at:
 
 **contact@iyaldi.com**  
-(or through the contact method listed in the Chrome Web Store / Firefox Add-ons store page)
+(or through the contact method listed in the Chrome Web Store page)
 
 Thank you for choosing a privacy-respecting extension! 🛡️
 
