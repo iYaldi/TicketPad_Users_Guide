@@ -2,7 +2,7 @@
 
 **Last updated: January 18, 2026**
 
-This browser extension ("the Extension") is designed with a very simple privacy philosophy:
+This browser extension TicketPad is designed with a very simple privacy philosophy:
 
 **We collect, store, process, share or transmit absolutely no personal data from you.**
 
@@ -44,3 +44,31 @@ In this case the Extension may **temporarily**:
 ## Permissions explanation (if any are requested)
 
 Common permissions you might see and their actual usage in this extension:
+
+activeTab"          → only reads/modifies the tab you explicitly clicked the extension on
+"tabs"               → only used to know current active tab URL (when necessary)
+"scripting"          → only to inject our own code into pages you visit
+"storage"            → only for local user settings / preferences (saved only on your device)
+":///*" or "<all_urls>"  → only when the core functionality requires working on every website
+
+None of these permissions are used to track you, profile you, or send information off-device.
+
+## Changes to this policy
+
+Because we promise to never collect any personal data, this policy is very unlikely to ever require substantial changes.  
+Should the extension ever add any data-collection feature in the future (which is **not** planned), we will:
+
+1. release a major version update
+2. clearly notify users in advance
+3. publish a new privacy policy
+4. ask for your explicit consent where legally required
+
+## Contact
+
+If you have any questions about this privacy policy (or just want to say hi because you appreciate zero-data extensions), feel free to contact us at:
+
+**contact@iyaldi.com**  
+(or through the contact method listed in the Chrome Web Store / Firefox Add-ons store page)
+
+Thank you for choosing a privacy-respecting extension! 🛡️
+
