@@ -135,7 +135,7 @@ And, as an added bonus, the TicketPad Search tab also prioritizes previous searc
 6. This is where you can add text to search in the tickets.
 7. Where the text can be search is specified here, in `Summary`, `Text`, `Description` or `Comments`. The boolean can also be switch between `AND` and `OR`. The condition can also be modified betwwen `~` and `!~`, equal or not equal respectfully.
 8. Here Labels can be selected or typed and added to the search.
-9. As this Browser Extension supports more than one Ticket Server at one time, the URLs are also set so you can search on more than one server.
+9. As this Browser Extension supports more than one Jira Ticket site at one time, the URLs are also set so you can search on more than one server.
 10. `Look Up`, clicking this button generates the search pattern and the search is executed in the browser's main window.
 
 ### Dropdowns
