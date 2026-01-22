@@ -46,7 +46,6 @@ In this case the Extension may **temporarily**:
 Common permissions you might see and their actual usage in this extension:
 
 - `"sidePanel"`          → only used to allow for the creation of the side panel
-- `"sidePanel"`          → only used to know current active tab URL (when necessary)
 - `"contextMenus"`       → only used to add menu items to the Context Menu
 - `"storage"`            → only for local user settings / preferences (saved only on your device)
 - `"https://*/*"`        → required to work with every type of Jira website
