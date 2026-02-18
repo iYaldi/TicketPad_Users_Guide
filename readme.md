@@ -1,6 +1,7 @@
 ![Company Icon](images/iY_full.svg)
 
-# TicketPad - User's Guide
+# TicketPad - User's Guide, (a.k.a J Search)
+
 
 <table align="center" style="border:0px solid #eee;width:100%">
   <tr style="border:0px solid #eee; width:100%">
